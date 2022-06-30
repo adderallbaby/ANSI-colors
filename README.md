@@ -1,2 +1,2 @@
 # ANSI-colors
-most popular ANSI colors for outputting in console here
+most popular ANSI {"\u001B[31m" + colors + \u001B[0m"} for outputting in console here
